@@ -3,6 +3,7 @@ text classification using Support Vector Classifier as part of Kumparan Data Sci
 
 You are given a dataset of articles in file data.csv and model interface file model.py.
 The data.csv file is contains 3 columns:
+
 ● article_id: unique id of the article
 
 ● article_topic: main topic of the article
