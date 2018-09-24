@@ -13,6 +13,7 @@ The data.csv file is contains 3 columns:
 You will implement the task explained below inside file model.py.
 
 Task Overview
+
 From the dataset, you should able to create a topic extractor model that basically extract a
 topic given the content of the article. We expect the topic extractor to behave as the dataset
 given. So given the article_content it will output the article_topic.
